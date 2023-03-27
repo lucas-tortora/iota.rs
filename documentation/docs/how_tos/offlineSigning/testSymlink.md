@@ -1,5 +1,6 @@
 # Offline Signing
-Test edit in folder 
+
+This should update nodejs and rust example.
 High-level explanation about offline signing with link to full explanation in either docs or wiki.
 
 ## High level Description of Examples
