@@ -1,6 +1,6 @@
-# Outputs
+# Offline Signing
 
-High-level explanation about what outputs are.
+High-level explanation about offline signing with link to full explanation in either docs or wiki.
 
 ## High level Description of Examples
 
