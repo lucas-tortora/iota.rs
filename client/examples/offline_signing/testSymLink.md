@@ -1,6 +1,6 @@
 # Offline Signing
 
-Test edit in folder
+Test edit in folder and branch
 
 High-level explanation about offline signing with link to full explanation in either docs or wiki.
 
